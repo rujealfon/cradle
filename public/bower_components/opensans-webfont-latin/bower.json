@@ -1,0 +1,15 @@
+{
+  "name": "opensans-webfont-latin",
+  "description": "Open Sans Webfont Latin bower package",
+  "keywords": [],
+  "homepage": "https://github.com/bhoriuchi/opensans-webfont-latin",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "css/opensans-latin.css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
